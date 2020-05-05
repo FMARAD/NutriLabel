@@ -1,0 +1,24 @@
+energy,fat,sat,sugat,salt,food
+1218,22,11,0,0.22,Lamb
+1084,17,6.8,0,0.13,Beef
+908,12,5.3,0,0.23,Veal
+992,12,3.1,0,0.22,Chicken
+519,2.6,0.7,0,0.22,Seabass
+255,3.3,1.9,5.1,<1,Full Fat Milk
+209,2,1.3,5.1,<1,Low Fat Milk
+259,3.3,1.9,4.9,<1,Full Fat Buttermilk
+234,2,1.2,5.3,<1,Low Fat Buttermilk
+255,3.3,2.1,4.7,<1,Full Fat Yogurt
+265,1.6,1,7,<1,Low Fat Yogurt
+1109,21,13,0,2.85,Feta Cheese
+75,0.2,0,2.6,0.01,Tomato
+63,0.1,0,1.7,0.01,Cucumber
+167,0.1,0,4.2,0.01,Onion
+360,0.1,0,0.9,0.6,Potato
+42,0.2,0,0.8,0.7,Lettus
+105,0.7,0.1,2.1,0.7,Rocket
+205,0.2,0,8.5,0,Orange
+121,0.3,0,2.5,<1,Lemon
+218,0.2,0.1,10,<1,Apple
+372,0.3,0.1,12,<1,Banana
+1159,0.2,0,66,<1,Date
